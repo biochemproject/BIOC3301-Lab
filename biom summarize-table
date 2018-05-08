@@ -1,0 +1,1 @@
+biom summarize-table -i ~/2018_02_smb/SILVA_otus/otu_table.biom -o ~/2018_02_smb/otu_table_summary.txt
